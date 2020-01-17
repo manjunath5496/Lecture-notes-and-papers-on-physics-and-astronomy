@@ -36,6 +36,15 @@
 
 
 
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Lecture-notes-and-papers-on-physics-and-astronomy/blob/master/lap(22).pdf" style="text-decoration:none;">The Feynman Lectures on Physics, Volume I </a></b></li>
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Lecture-notes-and-papers-on-physics-and-astronomy/blob/master/lap(23).pdf" style="text-decoration:none;">The Feynman Lectures on Physics, Volume III </a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Lecture-notes-and-papers-on-physics-and-astronomy/blob/master/lap(24).pdf" style="text-decoration:none;"The Feynman Lectures on Physics, Volume II </a></b></li>
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Lecture-notes-and-papers-on-physics-and-astronomy/blob/master/lap(25).pdf" style="text-decoration:none;">The Collected Works of Bernhard Riemann</a></b></li>
+
+
+
 
 
 
