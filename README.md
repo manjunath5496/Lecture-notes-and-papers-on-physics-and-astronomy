@@ -8,7 +8,7 @@
 
 <li><b><a target="_blank" href="https://github.com/manjunath5496/Lecture-notes-and-papers-on-physics-and-astronomy/blob/master/lap(3).pdf" style="text-decoration:none;">Differential Formulation Of The Laws Of Electromagnetism</a></b></li>
  <li><b><a target="_blank" href="https://github.com/manjunath5496/Lecture-notes-and-papers-on-physics-and-astronomy/blob/master/lap(4).pdf" style="text-decoration:none;">High Transverse Momentum Phenomena at the CERN </a></b></li>                              
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Lecture-notes-and-papers-on-physics-and-astronomy/blob/master/lap(5).pdf" style="text-decoration:none;">Analysis Of The Symmetric Trigger</a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Lecture-notes-and-papers-on-physics-and-astronomy/blob/master/lap(5).pdf" style="text-decoration:none;">Lectures on Statistical Physics</a></b></li>
 <li><b><a target="_blank" href="https://github.com/manjunath5496/Lecture-notes-and-papers-on-physics-and-astronomy/blob/master/lap(6).pdf" style="text-decoration:none;">Determination of the Angular and Energy Dependence of Hard Constituent Scattering From π<sup>0</sup> Pair Events at the CERN Intersecting Storage Rings</a></b></li>
  <li><b><a target="_blank" href="https://github.com/manjunath5496/Lecture-notes-and-papers-on-physics-and-astronomy/blob/master/lap(7).pdf" style="text-decoration:none;">Einstein's Miraculous Year: Five Papers That Changed the Face of Physics</a></b></li>
 
