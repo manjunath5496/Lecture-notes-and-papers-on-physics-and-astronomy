@@ -67,6 +67,20 @@
 <li><b><a target="_blank" href="https://github.com/manjunath5496/Lecture-notes-and-papers-on-physics-and-astronomy/blob/master/lap(36).pdf" style="text-decoration:none;">Lectures on Particle Physics, Astrophysics and Cosmology</a></b></li>
 
 
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Lecture-notes-and-papers-on-physics-and-astronomy/blob/master/lap(37).pdf" style="text-decoration:none;">Boltzmann's Legacy</a></b></li>
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Lecture-notes-and-papers-on-physics-and-astronomy/blob/master/lap(38).pdf" style="text-decoration:none;"> Lecture Notes on Group Theory in Physics</a></b></li>
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Lecture-notes-and-papers-on-physics-and-astronomy/blob/master/lap(39).pdf" style="text-decoration:none;">Lecture notes on field theory in condensed matter physics</a></b></li>
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Lecture-notes-and-papers-on-physics-and-astronomy/blob/master/lap(40).pdf" style="text-decoration:none;">Computational Physics</a></b></li>
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Lecture-notes-and-papers-on-physics-and-astronomy/blob/master/lap(41).pdf" style="text-decoration:none;">Lectures on Atomic Physics</a></b></li>
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Lecture-notes-and-papers-on-physics-and-astronomy/blob/master/lap(42).pdf" style="text-decoration:none;">Protein Physics</a></b></li>
+
+
+
 
 
 
