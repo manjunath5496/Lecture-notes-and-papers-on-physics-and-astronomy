@@ -10,9 +10,9 @@
  <li><b><a target="_blank" href="https://github.com/manjunath5496/Chemoinformatics-Books/blob/master/chem(4).pdf" style="text-decoration:none;">High Transverse Momentum Phenomena at the CERN </a></b></li>                              
 <li><b><a target="_blank" href="https://github.com/manjunath5496/Chemoinformatics-Books/blob/master/chem(5).pdf" style="text-decoration:none;">Analysis Of The Symmetric Trigger</a></b></li>
 <li><b><a target="_blank" href="https://github.com/manjunath5496/Chemoinformatics-Books/blob/master/chem(6).pdf" style="text-decoration:none;">Determination of the Angular and Energy Dependence of Hard Constituent Scattering From π<sup>0</sup> Pair Events at the CERN Intersecting Storage Rings</a></b></li>
- <li><b><a target="_blank" href="https://github.com/manjunath5496/Chemoinformatics-Books/blob/master/chem(7).pdf" style="text-decoration:none;">The Physical Universe</a></b></li>
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/Chemoinformatics-Books/blob/master/chem(7).pdf" style="text-decoration:none;">Einstein's Miraculous Year: Five Papers That Changed the Face of Physics</a></b></li>
 
- <li><b><a target="_blank" href="https://github.com/manjunath5496/Chemoinformatics-Books/blob/master/chem(8).pdf" style="text-decoration:none;"> Chemoinformatics and Computational Chemical Biology </a></b></li>
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/Chemoinformatics-Books/blob/master/chem(8).pdf" style="text-decoration:none;"> The Collected Papers of Albert Einstein</a></b></li>
    <li><b><a target="_blank" href="https://github.com/manjunath5496/Chemoinformatics-Books/blob/master/chem(9).pdf" style="text-decoration:none;">Chemoinformatics in Drug Discovery</a></b></li>
   
    
