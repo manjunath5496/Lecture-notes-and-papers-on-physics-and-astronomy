@@ -43,7 +43,9 @@
 
 <li><b><a target="_blank" href="https://github.com/manjunath5496/Lecture-notes-and-papers-on-physics-and-astronomy/blob/master/lap(25).pdf" style="text-decoration:none;">The Collected Works of Bernhard Riemann</a></b></li>
 
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Lecture-notes-and-papers-on-physics-and-astronomy/blob/master/lap(26).pdf" style="text-decoration:none;"> Collected Papers of Srinivasa Ramanujan</a></b></li>
 
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Lecture-notes-and-papers-on-physics-and-astronomy/blob/master/lap(27).pdf" style="text-decoration:none;">Lectures on Quantum Mechanics</a></b></li>
 
 
 
