@@ -48,6 +48,24 @@
 <li><b><a target="_blank" href="https://github.com/manjunath5496/Lecture-notes-and-papers-on-physics-and-astronomy/blob/master/lap(27).pdf" style="text-decoration:none;">Lectures on Quantum Mechanics</a></b></li>
 
 
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Lecture-notes-and-papers-on-physics-and-astronomy/blob/master/lap(28).pdf" style="text-decoration:none;">Lecture Notes in Physics: Introduction to Plasma Physics </a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Lecture-notes-and-papers-on-physics-and-astronomy/blob/master/lap(29).pdf" style="text-decoration:none;"> Lecture Notes for Solid State Physics </a></b></li>
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Lecture-notes-and-papers-on-physics-and-astronomy/blob/master/lap(30).pdf" style="text-decoration:none;">Lecture Notes on Cosmology</a></b></li>
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Lecture-notes-and-papers-on-physics-and-astronomy/blob/master/lap(31).pdf" style="text-decoration:none;"> Undergraduate Lecture Notes in Physics</a></b></li>
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Lecture-notes-and-papers-on-physics-and-astronomy/blob/master/lap(32).pdf" style="text-decoration:none;">The Physics of the Quark-Gluon Plasma Introductory Lectures</a></b></li>
+
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Lecture-notes-and-papers-on-physics-and-astronomy/blob/master/lap(33).pdf" style="text-decoration:none;">Electrodynamics (Chicago Lectures in Physics)</a></b></li>
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Lecture-notes-and-papers-on-physics-and-astronomy/blob/master/lap(34).pdf" style="text-decoration:none;"> Lecture Notes on the General Theory of Relativity</a></b></li>
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Lecture-notes-and-papers-on-physics-and-astronomy/blob/master/lap(35).pdf" style="text-decoration:none;">Lectures on LHC Physics</a></b></li>
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Lecture-notes-and-papers-on-physics-and-astronomy/blob/master/lap(36).pdf" style="text-decoration:none;">Lectures on Particle Physics, Astrophysics and Cosmology</a></b></li>
+
 
 
 
